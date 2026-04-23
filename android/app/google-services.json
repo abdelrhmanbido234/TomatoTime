@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829403222244",
+    "project_id": "tomatotime-7a551",
+    "storage_bucket": "tomatotime-7a551.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829403222244:android:a05389c5959c54be861cf1",
+        "android_client_info": {
+          "package_name": "com.example.tomato_time"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJHOjtuVPzDEjvgLQFsTtb_U8Gs5Yac48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
